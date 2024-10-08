@@ -1,0 +1,101 @@
+#body1 {
+background-image: url(https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQY9afjoclQPf66UxlJlEqK2M5paHxqQxqbjEzkO6YzvejTjOgDf4kVbN8T3E16ltWy8Lhw9wyCzz8ljo13kXGT_1MUZU0F5AhbCcmAdA);
+background-repeat: no-repeat;
+background-size: cover;
+}
+ 
+#body2 {
+    background-image: url(https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_640,q_65,w_960/v1/clients/indy/Childrens_Museum_Indianapolis_040_418b205e-491f-4808-8c38-9c5abf8825e1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+#body3 {
+     background-image: url(https://a.travel-assets.com/findyours-php/viewfinder/images/res70/219000/219585-Indianapolis-Zoo.jpg);
+    background-repeat: no-repeat;
+     background-size: cover;
+      }
+
+ #body4 {
+        background-image: url(https://hips.hearstapps.com/hmg-prod/images/gettyimages-1151882066-1-1619037115.jpg?crop=1.00xw:1.00xh;0,0&resize=640:*);
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+#link1{
+    border: 7px  orange;
+    margin:250px; 
+    padding: 100px; 
+    background-image: url(https://lh5.googleusercontent.com/p/AF1QipMmfXs0n6CPkFzWpuUz7-7v7S2wfxKfJx8WEmCu=w1080-h624-n-k-no) ;
+    background-size:contain ;  
+    background-repeat: no-repeat;
+    color:rgba(255, 255, 255, 0);
+    border-radius: 50px 50px;
+}
+
+
+#link2{
+    border: 7px  orange;
+    margin:250px; 
+    padding: 100px; 
+    background-image: url(https://www.indianapoliszoo.com/wp-content/uploads/2024/04/IMG_6181-HDR-scaled.jpg) ;
+    background-size:contain ;  
+    background-repeat: no-repeat;
+    color:rgba(255, 255, 255, 0);
+    border-radius: 50px 50px;
+}
+
+#link3{
+    border: 7px  orange;
+    margin:250px; 
+    padding: 100px; 
+    background-image: url(https://fox59.com/wp-content/uploads/sites/21/2024/05/AP23148749130675.jpg?w=1280) ;
+    background-size:contain ;  
+    background-repeat: no-repeat;
+    color:rgba(255, 255, 255, 0);
+    border-radius: 50px 50px;
+}
+h2{
+    font-size:large ;
+    color: gold;
+   background-color: blue;
+  width: fit-content;
+}
+header{
+    font-weight: bold;
+    font-size: larger;
+    background-color: rgba(240, 248, 255, 0.753);
+    width: fit-content;
+}
+h1{
+    background-color: blue;
+    width: fit-content;
+}
+.p3{
+    color: rgba(255, 255, 255, 0.561);
+   background-size: 2000px 300px;
+    background-color: rgb(251, 0, 0);
+}
+.p1{
+    background-color: rgba(255, 255, 255, 0.474);
+   
+
+}
+a{
+    color: rgb(255, 234, 0);
+    
+}
+iframe{
+    border-radius: 10px;
+}
+.p3 img{
+    width: 350px;
+    height:250px;
+    margin-right: 1rem;
+    margin-bottom: -5rem;
+    float: start;
+}
+.p2{
+    color: rgb(123, 84, 5);
+    background-color: rgb(255, 213, 0) ;
+    font-weight: bolder;
+}
